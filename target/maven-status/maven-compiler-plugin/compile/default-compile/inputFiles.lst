@@ -1,0 +1,9 @@
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/OciMicroserviceApplication.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/controller/OrderController.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/controller/UserController.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/model/Order.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/model/User.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/repository/OrderRepository.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/repository/UserRepository.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/service/OrderService.java
+/Users/pamelasanchez/Desktop/TC3004B_JAVA/oci-microservice/src/main/java/com/example/oci_microservice/service/UserService.java
